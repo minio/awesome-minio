@@ -6,17 +6,17 @@ A curated list of Minio community projects inspired by [awesome-go](https://gith
 * To add, remove, or change things on the list: Submit a pull request.
 * Latest entries are added to the top, just below the sample text.
 * The link should be the name of the package or project or a link to your website.
-* Descriptions should not exceed more than two lines.
+* Description should not exceed more than two lines.
 
 
 ## Contents
 
 ### Awesome Projects
-List of projects bundling Minio Server in it's stack.
+List of projects bundling Minio server in it's stack.
 * [Your Project](URL) - Describe your project and how you are using Minio. 
 
 ### Awesome Use Cases
-List of projects using Minio Server to store thier data.
+List of projects using Minio server to store their data.
 * [Your Project](URL) - Describe your project and how you are using Minio.
 
 ### Awesome Cloud
