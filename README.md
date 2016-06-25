@@ -25,7 +25,7 @@ List of public cloud services recommended for Minio deployments.
 
 ### Awesome Hardware
 List of compatible hardware platform recommended by the user community. 
-* [Hardware Vendor](URL) - Describe your recommended hardware setup.
+* [Hardware Model](URL) - Describe your recommended hardware setup.
 
 
 
