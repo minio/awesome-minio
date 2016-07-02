@@ -17,8 +17,8 @@ List of projects bundling Minio server in it's stack.
 
 ### Awesome Use Cases
 List of projects using Minio server to store their data.
-* [s3git](https://github.com/s3git/s3git) - git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local SSD to make changes, commit and push back.
 * [Your Project](URL) - Describe your project and how you are using Minio.
+* [s3git](https://github.com/s3git/s3git) - git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local SSD to make changes, commit and push back.
 * [CODECASTS](https://codecasts.com.br) - A Brazilian e-learning platform for developers, using minio to serve and scale it's video traffic.
 
 ### Awesome Cloud
