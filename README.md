@@ -18,6 +18,7 @@ List of projects bundling Minio server in it's stack.
 ### Awesome Use Cases
 List of projects using Minio server to store their data.
 * [Your Project](URL) - Describe your project and how you are using Minio.
+* [CODECASTS](https://codecasts.com.br) - A Brazilian e-learning platform for developers, using minio to serve and scale it's video traffic.
 
 ### Awesome Cloud
 List of public cloud services recommended for Minio deployments.
