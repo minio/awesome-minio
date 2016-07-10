@@ -26,11 +26,8 @@ List of projects using Minio server to store their data.
 List of public cloud services recommended for Minio deployments.
 * [Cloud Provider](URL) - Describe your cloud provider and any recommended configration.
 * [Packet](https://www.packet.net) - Packet is the baremetal cloud provider. 
-* [Digital Ocean](https://www.digitalocean.com) 
+* [Digital Ocean](https://www.digitalocean.com) - Deploy an SSD cloud server in 55 seconds.
 
 ### Awesome Hardware
 List of compatible hardware platform recommended by the user community. 
 * [Hardware Model](URL) - Describe your recommended hardware setup.
-
-
-
