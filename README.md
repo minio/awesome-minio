@@ -27,6 +27,7 @@ List of public cloud services recommended for Minio deployments.
 * [Cloud Provider](URL) - Describe your cloud provider and any recommended configration.
 * [Packet](https://www.packet.net) - Packet is the baremetal cloud provider. 
 * [Digital Ocean](https://www.digitalocean.com) - Deploy an SSD cloud server in 55 seconds.
+* [SSD Nodes](https://www.ssdnodes.com/) - Simple, high performance cloud provider with truly personalized support.
 
 ### Awesome Hardware
 List of compatible hardware platform recommended by the user community. 
