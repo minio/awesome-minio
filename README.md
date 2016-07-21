@@ -14,6 +14,7 @@ A curated list of Minio community projects inspired by [awesome-go](https://gith
 ### Awesome Projects
 List of projects bundling Minio server in it's stack.
 * [Your Project](URL) - Describe your project and how you are using Minio. 
+* [Gorbachev IO](https://dragonfly.co.nz) - Gorbachev is a continuous integration platform, used for managing reproducible research at Dragonfly Data Science. The minio tools are awesome, and the community is supportive and responsive. 
 
 ### Awesome Use Cases
 List of projects using Minio server to store their data.
