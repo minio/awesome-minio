@@ -33,6 +33,7 @@ List of public cloud services recommended for Minio deployments.
 * [SSD Nodes](https://www.ssdnodes.com/) - Simple, high performance cloud provider with truly personalized support.
 * [OVH](https://www.ovh.com/us) - Build your own infrastructure with OVH public cloud.. 
 * [Onlinetech](http://www.onlinetech.com) - Secure, compliant enterprise cloud.
+* [ScaleWay](https://www.scaleway.com) - Scalable and affordable cloud and bare-metal servers (European DC).
 
 
 ### Awesome Hardware
