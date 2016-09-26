@@ -18,6 +18,7 @@ List of projects bundling Minio server in it's stack.
 ### Awesome Use Cases
 List of projects using Minio server to store their data.
 * [Your Project](URL) - Describe your project and how you are using Minio.
+* [Deis](https://deis.com) - Deis is an open source Platform as a Service for use with [Kubernetes](http://kubernetes.io/). It uses Minio by default for all internal application metadata storage, as well as the store for database backups.
 * [Pathio](https://www.pathio.com) - Pathio is a version control system for Excel, using minio as the on-premise storage backend for workbooks and json blobs. 
 * [restic](https://restic.github.io) - restic is a backup program that is fast, efficient and secure. Check [the documentation](http://restic.readthedocs.io/en/latest/Manual/#create-a-minio-server-repository) for instructions on how to backup to a minio server.
 * [Gorbachev IO](https://dragonfly.co.nz) - Gorbachev is a continuous integration platform, used for managing reproducible research at Dragonfly Data Science. The minio tools are awesome, and the community is supportive and responsive. 
