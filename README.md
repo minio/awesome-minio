@@ -13,11 +13,10 @@ A curated list of Minio community projects inspired by [awesome-go](https://gith
 
 ### Awesome Projects
 List of projects bundling Minio server in it's stack.
-* [Your Project](URL) - Describe your project and how you are using Minio. 
+ 
 
 ### Awesome Use Cases
 List of projects using Minio server to store their data.
-* [Your Project](URL) - Describe your project and how you are using Minio.
 * [Deis](https://deis.com) - Deis is an open source Platform as a Service for use with [Kubernetes](http://kubernetes.io/). It uses Minio by default for all internal application metadata storage, as well as the store for database backups.
 * [Pathio](https://www.pathio.com) - Pathio is a version control system for Excel, using minio as the on-premise storage backend for workbooks and json blobs. 
 * [restic](https://restic.github.io) - restic is a backup program that is fast, efficient and secure. Check [the documentation](http://restic.readthedocs.io/en/latest/Manual/#create-a-minio-server-repository) for instructions on how to backup to a minio server.
@@ -31,7 +30,6 @@ List of projects using Minio server to store their data.
 
 ### Awesome Cloud
 List of public cloud services recommended for Minio deployments.
-* [Cloud Provider](URL) - Describe your cloud provider and any recommended configration.
 * [Packet](https://www.packet.net) - Packet is the baremetal cloud provider. 
 * [Digital Ocean](https://www.digitalocean.com) - Deploy an SSD cloud server in 55 seconds.
 * [SSD Nodes](https://www.ssdnodes.com/) - Simple, high performance cloud provider with truly personalized support.
@@ -41,5 +39,8 @@ List of public cloud services recommended for Minio deployments.
 
 
 ### Awesome Hardware
-List of compatible hardware platform recommended by the user community. 
-* [Hardware Model](URL) - Describe your recommended hardware setup.
+List of compatible hardware platform recommended by the user community.
+* [SMC 5018A-AR12L (Intel Atom)](http://www.supermicro.com/products/system/1U/5018/SSG-5018A-AR12L.cfm?parts=SHOW) - SMC 1U SoC Atom C2750 platform with 12x 3.5” drive bays
+* [Quanta Grid D51B-2U (OCP Compliant) ](http://www.qct.io/Product/Servers/Rackmount-Servers/2U/QuantaGrid-D51B-2U-p256c77c70c83c118)- Quanta 2U DP E5-2600v3 platform with 12x 3.5” drive bays
+* [Cisco UCS C240 M4 Rack Server](http://www.cisco.com/c/en/us/products/servers-unified-computing/ucs-c240-m4-rack-server/index.html) - Cisco 2U DP E5-2600v3 platform with 12x 3.5” drive bays
+* [Intel® Server System R2312WTTYSR](http://ark.intel.com/products/88286) - Intel 2U DP E5-2600v3 platform with 12x 3.5” drive bays
