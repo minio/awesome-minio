@@ -17,16 +17,33 @@ List of projects bundling Minio server in it's stack.
 
 ### Awesome Use Cases
 List of projects using Minio server to store their data.
+* [GitLab](https://gitlab.com) - GitLab is open source software to collaborate on code.  It uses Minio for storing object for their caching server.
+* [drone.io](https://drone.io/) - drone.io is continuous integration for Github and Bitbucket that monitors your code for bugs. It supports  Minio as AWS S3 cloud storage alternative.
+* [CloudBerry Backup](http://www.cloudberrylab.com/best-bare-metal-backup-software.aspx) - CloudBerry Backup is used for storing  files, folders and system image to the cloud storage providers. It uses Minio for Standalone, Online and Managed Backup Service. 
+* [Plumbery](http://plumbery.readthedocs.io/en/latest/tutorial.minio.html) -  Plumbery is an Open Source project that was initiated by Dimension Data to accelerate the digital transformation. It recommends Minio as Standalone Object Storage.
+* [Jelastic](https://jelastic.com/) - Jelastic is a Multi-Cloud PaaS and CaaS for Business. It uses Minio as compatible object storage server in Docker containers.
+* [QuezX](https://quezx.com/) - QuezX is a recruitment aggregator for connecting employers to recruitment agencies. It uses Minio to store and manage all the CV's and all other documents of the platform. 
+* [nxsol](http://nxsol.com/index.html) - nxsol specializes in the development of desktop and web-based business and personal applications. It uses minio-java client library for Amazon S3 related applications.
+* [Blockai](https://blockai.com/) - Blockai  helps artists claim their copyrights and protect them for free. It uses Minio for all internal dev and testing for AWS S3 compatible service.
+* [Ramcloud](https://ramcloud.io) - Ramcloud is a hosting service provider. It uses Minio with CDN to host backups, machine images, etc.
 * [Deis](https://deis.com) - Deis is an open source Platform as a Service for use with [Kubernetes](http://kubernetes.io/). It uses Minio by default for all internal application metadata storage, as well as the store for database backups.
 * [Pathio](https://www.pathio.com) - Pathio is a version control system for Excel, using minio as the on-premise storage backend for workbooks and json blobs. 
-* [restic](https://restic.github.io) - restic is a backup program that is fast, efficient and secure. Check [the documentation](http://restic.readthedocs.io/en/latest/Manual/#create-a-minio-server-repository) for instructions on how to backup to a minio server.
 * [Gorbachev IO](https://dragonfly.co.nz) - Gorbachev is a continuous integration platform, used for managing reproducible research at Dragonfly Data Science. The minio tools are awesome, and the community is supportive and responsive. 
-* [s3git](https://github.com/s3git/s3git) - git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local SSD to make changes, commit and push back.
 * [CODECASTS](https://codecasts.com.br) - A Brazilian e-learning platform for developers, using minio to serve and scale it's video traffic.
 * [Appknox](https://www.appknox.com/) - Appknox detects & addresses vulnerabilities in mobile apps within minutes. Managing storage was a nightmare for us before Minio came along. We use Minio to store all our ipa/apk files and pdf reports that gets auto-nenerated. We are an Enterprise startups and offer On-Premise and Private-Cloud installations of our cloud-based scanner. We have deployed our code base on AWS, Google, Azure, multiple On-Premise installations and Private Cloud. Before Mino came along - we had to write and maintain Python libraries for each platform and maintain it. Some of the changes that we make cannot be even tested - because its deployed on-premise where we dont have access to. Thankfully, we came across Minio. Now we just install minio everywhere and forget about storage. Minio Rocks!
-* [rclone](http://rclone.org) - "rsync for cloud storage".  Rclone is a command application to sync files to and from cloud storage systems and it works well with minio.  Check out [rclone's s3 docs](http://rclone.org/s3/) to see how.
 * [BackupHive](https://www.backuphive.nl) - Providing online backup services from The Netherlands with Minio as a back-end S3 compatible server for storage and retrieval of files. Minio is very scalable, uses almost no resources itself and is easy to maintain. The awesome team has a strong combined knowledge of use-cases, ranging from the smallest personal project to large scale cross-datacenter setups, all available within a comfortable community.
 * [mkrepo](https://github.com/tarantool/mkrepo) - maintain an RPM or DEB repository in S3, and periodically regenerate metadata. You can use Minio as a convenient and inexpensive storage for your CI.
+
+### Awesome Tools
+List of tools and software supporting Minio with it.
+* [Cyberduck](https://cyberduck.io/) - Cyberduck is an open source client for FTP and SFTP, WebDAV, OpenStack Swift, and Amazon S3, available for Mac OS X and Windows. It supports Minio as AWS S3 compatible storage.
+* [Mountain Duck](https://mountainduck.io/) - Mountain Duck lets you mount server and cloud storage as a local disk in the Finder.app on Mac and the File Explorer on Windows. It supports Minio as AWS S3 compatible storage.
+* [restic](https://restic.github.io) - restic is a backup program that is fast, efficient and secure. Check [the documentation](http://restic.readthedocs.io/en/latest/Manual/#create-a-minio-server-repository) for instructions on how to backup to a Minio server.
+* [rclone](http://rclone.org) - "rsync for cloud storage".  Rclone is a command application to sync files to and from cloud storage systems and it works well with Minio. Check out [rclone's s3 docs](http://rclone.org/s3/) to see how.
+* [s3git](https://github.com/s3git/s3git) - git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local SSD to make changes, commit and push back.s3 docs](http://rclone.org/s3/) to see how.
+* [Django-Minio](https://github.com/maddevsio/django_minio) - Django is popular Python web framework, Django-Minio plugin enables use of Minio as AWS S3 replacement.
+* [Ha-Minio](https://github.com/bryanl/ha-minio) - Configure Minio, as a S3 compatible Cloud Storage Server for DigitalOcean in a highly available fashion.
+
 
 ### Awesome Cloud
 List of public cloud services recommended for Minio deployments.
@@ -44,3 +61,4 @@ List of compatible hardware platform recommended for Minio deployments.
 * [Quanta Grid D51B-2U (OCP Compliant) ](http://www.qct.io/Product/Servers/Rackmount-Servers/2U/QuantaGrid-D51B-2U-p256c77c70c83c118)- Quanta 2U DP E5-2600v3 platform with 12x 3.5” drive bays
 * [Cisco UCS C240 M4 Rack Server](http://www.cisco.com/c/en/us/products/servers-unified-computing/ucs-c240-m4-rack-server/index.html) - Cisco 2U DP E5-2600v3 platform with 12x 3.5” drive bays
 * [Intel® Server System R2312WTTYSR](http://ark.intel.com/products/88286) - Intel 2U DP E5-2600v3 platform with 12x 3.5” drive bays
+
