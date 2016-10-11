@@ -17,6 +17,7 @@ List of projects bundling Minio server in it's stack.
 
 ### Awesome Use Cases
 List of projects using Minio server to store their data.
+* [Collaborne](https://github.com/Collaborne) - Collaborne uses Minio docker containers in their development environments to simulate a full AWS S3 environment.
 * [GitLab](https://gitlab.com) - GitLab is open source software to collaborate on code.  It uses Minio for storing object for their caching server.
 * [drone.io](https://drone.io/) - drone.io is continuous integration for Github and Bitbucket that monitors your code for bugs. It supports  Minio as AWS S3 cloud storage alternative.
 * [CloudBerry Backup](http://www.cloudberrylab.com/best-bare-metal-backup-software.aspx) - CloudBerry Backup is used for storing  files, folders and system image to the cloud storage providers. It uses Minio for Standalone, Online and Managed Backup Service. 
