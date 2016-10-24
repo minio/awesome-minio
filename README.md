@@ -17,6 +17,8 @@ List of projects bundling Minio server in it's stack.
 
 ### Awesome Use Cases
 List of projects using Minio server to store their data.
+* [dapploy](https://dapploy.io/) - dapploy is a solution to create private app stores to deploy your iOS and Android applications to your team, company or organization. Minio is easily integrated with our architecture and docker environment. Minio is used to store application packages ipa and apk, icons and images. Minio's great features among others is to have presigned url while downloading resources and we use that a lot. Thanks for your good documentation and community around it.
+* [Cosmic App](https://cosmicapp.co.uk) - Cosmic App uses Minio for storing files and quote for commercial brokers about their clients, files are packaged up for lenders including high street banks to access securely.
 * [Collaborne](https://github.com/Collaborne) - Collaborne uses Minio docker containers in their development environments to simulate a full AWS S3 environment.
 * [GitLab](https://gitlab.com) - GitLab is open source software to collaborate on code.  It uses Minio for storing object for their caching server.
 * [drone.io](https://drone.io/) - drone.io is continuous integration for Github and Bitbucket that monitors your code for bugs. It supports  Minio as AWS S3 cloud storage alternative.
@@ -38,6 +40,7 @@ List of projects using Minio server to store their data.
 
 ### Awesome Tools
 List of tools and software supporting Minio with it.
+* [s3-tus-store](https://github.com/blockai/s3-tus-store) - Minio is supported storage backend for [https://tus.io/](https://tus.io/)  
 * [Cyberduck](https://cyberduck.io/) - Cyberduck is an open source client for FTP and SFTP, WebDAV, OpenStack Swift, and Amazon S3, available for Mac OS X and Windows. It supports Minio as AWS S3 compatible storage.
 * [Mountain Duck](https://mountainduck.io/) - Mountain Duck lets you mount server and cloud storage as a local disk in the Finder.app on Mac and the File Explorer on Windows. It supports Minio as AWS S3 compatible storage.
 * [restic](https://restic.github.io) - restic is a backup program that is fast, efficient and secure. Check [the documentation](http://restic.readthedocs.io/en/latest/Manual/#create-a-minio-server-repository) for instructions on how to backup to a Minio server.
