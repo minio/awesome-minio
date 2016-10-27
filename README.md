@@ -17,6 +17,7 @@ List of projects bundling Minio server in it's stack.
 
 ### Awesome Use Cases
 List of projects using Minio server to store their data.
+* [Simple Simple Ads](https://simplesimple.ca) - We use Minio as an compatible object storage server replacement for our development environment. This allows multiple developers to share a local repository of files transparently without having to change any site configuration. This makes developing with [Drupal](https://www.drupal.org/) and the [s3fs](https://www.drupal.org/project/s3fs) module easy. File changes are staged locally and then migrated to Amazon S3 when approved using the mc client library.
 * [Crisp](https://crisp.im/) - Crisp is a Customer Intelligence platform. It helps teams know, understand and communicate with their customers, from multiple channels (chat, email). Minio is used to securely store user file uploads: files uploaded from the chatbox, operator dashboard and email attachments. It completely replaces S3 and brings more control on user data safety.
 * [dapploy](https://dapploy.io/) - dapploy is a solution to create private app stores to deploy your iOS and Android applications to your team, company or organization. Minio is easily integrated with our architecture and docker environment. Minio is used to store application packages ipa and apk, icons and images. Minio's great features among others is to have presigned url while downloading resources and we use that a lot. Thanks for your good documentation and community around it.
 * [Cosmic App](https://cosmicapp.co.uk) - Cosmic App uses Minio for storing files and quote for commercial brokers about their clients, files are packaged up for lenders including high street banks to access securely.
@@ -41,6 +42,7 @@ List of projects using Minio server to store their data.
 
 ### Awesome Tools
 List of tools and software supporting Minio with it.
+* [Mattermost](https://www.mattermost.org/) - Mattermost is an open source, self-hosted Slack-alternative. It uses minio-go fully for managed way of handling S3 API requests.
 * [s3-tus-store](https://github.com/blockai/s3-tus-store) - Minio is supported storage backend for [https://tus.io/](https://tus.io/)
 * [Cyberduck](https://cyberduck.io/) - Cyberduck is an open source client for FTP and SFTP, WebDAV, OpenStack Swift, and Amazon S3, available for Mac OS X and Windows. It supports Minio as AWS S3 compatible storage.
 * [Mountain Duck](https://mountainduck.io/) - Mountain Duck lets you mount server and cloud storage as a local disk in the Finder.app on Mac and the File Explorer on Windows. It supports Minio as AWS S3 compatible storage.
