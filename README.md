@@ -42,6 +42,7 @@ List of projects using Minio server to store their data.
 
 ### Awesome Tools
 List of tools and software supporting Minio with it.
+* [minio-dokku](https://github.com/slypix/minio-dokku) - Dockerfile to run Minio on [Dokku](http://dokku.viewdocs.io/dokku/) PaaS.
 * [Mattermost](https://www.mattermost.org/) - Mattermost is an open source, self-hosted Slack-alternative. It uses minio-go fully for managed way of handling S3 API requests.
 * [s3-tus-store](https://github.com/blockai/s3-tus-store) - Minio is supported storage backend for [https://tus.io/](https://tus.io/)
 * [Cyberduck](https://cyberduck.io/) - Cyberduck is an open source client for FTP and SFTP, WebDAV, OpenStack Swift, and Amazon S3, available for Mac OS X and Windows. It supports Minio as AWS S3 compatible storage.
