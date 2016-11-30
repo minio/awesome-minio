@@ -23,6 +23,7 @@ List of projects using Minio server to store their data.
 * [Cosmic App](https://cosmicapp.co.uk) - Cosmic App uses Minio for storing files and quote for commercial brokers about their clients, files are packaged up for lenders including high street banks to access securely.
 * [Collaborne](https://github.com/Collaborne) - Collaborne uses Minio docker containers in their development environments to simulate a full AWS S3 environment.
 * [GitLab](https://gitlab.com) - GitLab is open source software to collaborate on code.  It uses Minio for storing object for their caching server.
+* [Eucalyptus](http://www.eucalyptus.com) - Eucalyptus is an open solution for building private and hybrid clouds that are compatible with Amazon Web Services. Minio can be used as an object storage backend for Eucalyptus.
 * [drone.io](https://drone.io/) - drone.io is continuous integration for Github and Bitbucket that monitors your code for bugs. It supports  Minio as AWS S3 cloud storage alternative.
 * [CloudBerry Backup](http://www.cloudberrylab.com/best-bare-metal-backup-software.aspx) - CloudBerry Backup is used for storing  files, folders and system image to the cloud storage providers. It uses Minio for Standalone, Online and Managed Backup Service.
 * [Plumbery](http://plumbery.readthedocs.io/en/latest/tutorial.minio.html) -  Plumbery is an Open Source project that was initiated by Dimension Data to accelerate the digital transformation. It recommends Minio as Standalone Object Storage.
@@ -71,4 +72,3 @@ List of compatible hardware platform recommended for Minio deployments.
 * [Quanta Grid D51B-2U (OCP Compliant) ](http://www.qct.io/Product/Servers/Rackmount-Servers/2U/QuantaGrid-D51B-2U-p256c77c70c83c118)- Quanta 2U DP E5-2600v3 platform with 12x 3.5” drive bays
 * [Cisco UCS C240 M4 Rack Server](http://www.cisco.com/c/en/us/products/servers-unified-computing/ucs-c240-m4-rack-server/index.html) - Cisco 2U DP E5-2600v3 platform with 12x 3.5” drive bays
 * [Intel® Server System R2312WTTYSR](http://ark.intel.com/products/88286) - Intel 2U DP E5-2600v3 platform with 12x 3.5” drive bays
-
