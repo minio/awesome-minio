@@ -13,7 +13,7 @@ A curated list of Minio community projects inspired by [awesome-go](https://gith
 
 ### Awesome Projects
 List of projects bundling Minio server in it's stack.
-* [minio-dist-boshrelease](https://github.com/shinji62/minio-dist-boshrelease) - Cloud Foundry [BOSH](https://bosh.io) is an open source tool chain for release engineering, deployment and lifecycle management of large scale distributed services. minio-dist-boshrelease release will help easily install the [distributed version of Minio](https://docs.minio.io/docs/distributed-minio-quickstart-guide).  
+* [minio-dist-boshrelease](https://github.com/shinji62/minio-dist-boshrelease) - Cloud Foundry [BOSH](https://bosh.io) is an open source tool chain for release engineering, deployment and lifecycle management of large scale distributed services. minio-dist-boshrelease will help easily install the [distributed version of Minio](https://docs.minio.io/docs/distributed-minio-quickstart-guide).  
 
 ### Awesome Use Cases
 List of projects using Minio server to store their data.
