@@ -24,6 +24,7 @@ List of projects using Minio server to store their data.
 * [Cosmic App](https://cosmicapp.co.uk) - Cosmic App uses Minio for storing client files and quote information for commercial brokers. Files are packaged up for lenders including high street banks to access securely.
 * [Collaborne](https://github.com/Collaborne) - Collaborne uses Minio docker containers in development environments to simulate a full AWS S3 environment.
 * [GitLab](https://gitlab.com) - GitLab is an open source software to collaborate on code.  It uses Minio to store objects in their caching server.
+* [Eucalyptus](http://www.eucalyptus.com) - Eucalyptus is an open solution to build private and hybrid clouds that are compatible with Amazon Web Services. Minio can be used as an object storage backend for Eucalyptus.
 * [drone.io](https://drone.io/) - drone.io is continuous integration for Github and Bitbucket, that monitors your code for bugs. It uses Minio as an AWS S3 cloud storage alternative.
 * [CloudBerry Backup](http://www.cloudberrylab.com/best-bare-metal-backup-software.aspx) - CloudBerry Backup is used to store files, folders and system images to cloud storage providers. CloudBerry uses Minio for standalone, online and managed backup service.
 * [Plumbery](http://plumbery.readthedocs.io/en/latest/tutorial.minio.html) -  Plumbery is an open source project that was initiated by Dimension Data to accelerate digital transformation. It recommends using Minio as a standalone object storage.
