@@ -66,7 +66,6 @@ List of public cloud services recommended for Minio deployments.
 * [Onlinetech](http://www.onlinetech.com) - Secure, compliant enterprise cloud.
 * [ScaleWay](https://www.scaleway.com) - Scalable and affordable cloud and bare-metal servers (European DC).
 
-
 ### Awesome Hardware
 List of compatible hardware platform recommended for Minio deployments.
 * [SMC 5018A-AR12L (Intel Atom)](http://www.supermicro.com/products/system/1U/5018/SSG-5018A-AR12L.cfm?parts=SHOW) - SMC 1U SoC Atom C2750 platform with 12x 3.5” drive bays
