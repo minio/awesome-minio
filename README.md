@@ -13,7 +13,7 @@ A curated list of Minio community projects inspired by [awesome-go](https://gith
 
 ### Awesome Projects
 List of projects bundling Minio server in it's stack.
-
+* [minio-dist-boshrelease](https://github.com/shinji62/minio-dist-boshrelease) - Cloud Foundry [BOSH](https://bosh.io) is an open source tool chain for release engineering, deployment and lifecycle management of large scale distributed services. minio-dist-boshrelease will help easily install the [distributed version of Minio](https://docs.minio.io/docs/distributed-minio-quickstart-guide).  
 
 ### Awesome Use Cases
 List of projects using Minio server to store their data.
@@ -41,6 +41,7 @@ List of projects using Minio server to store their data.
 * [mkrepo](https://github.com/tarantool/mkrepo) - maintains an RPM or DEB repository in S3, and periodically regenerates metadata. You can use Minio as a convenient and inexpensive storage for your CI.
 * [Trustvox](http://trustvox.com.br) - Trustvox is an integrator of ecommerce platforms, ensures 100% valid product reviews, allowing only real buyers to post reviews along with a continuous audit process. The platform team chose Minio to create its own S3 service to avoids infrastructure vendor lock-in, obtaining transparent compatibility with Google Cloud Storage and previous Amazon S3 infrastructures. We tested other options before, and only Minio showed the stable and enterprise-grade results we were looking for.
 * [C0D1UM] (http://www.codium.co) - C0D1UM is a software development firm doing projects on demand and offering operating system infrastructure support. We use `minio` to secure all confidential data in private network. It was a first choice because major functions are compatible with AWS S3 standard functions.
+ 
 
 ### Awesome Tools
 List of tools and software supporting Minio with it.
@@ -72,4 +73,3 @@ List of compatible hardware platform recommended for Minio deployments.
 * [Quanta Grid D51B-2U (OCP Compliant) ](http://www.qct.io/Product/Servers/Rackmount-Servers/2U/QuantaGrid-D51B-2U-p256c77c70c83c118)- Quanta 2U DP E5-2600v3 platform with 12x 3.5” drive bays
 * [Cisco UCS C240 M4 Rack Server](http://www.cisco.com/c/en/us/products/servers-unified-computing/ucs-c240-m4-rack-server/index.html) - Cisco 2U DP E5-2600v3 platform with 12x 3.5” drive bays
 * [Intel® Server System R2312WTTYSR](http://ark.intel.com/products/88286) - Intel 2U DP E5-2600v3 platform with 12x 3.5” drive bays
-
