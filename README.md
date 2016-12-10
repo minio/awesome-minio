@@ -17,7 +17,7 @@ List of projects bundling Minio server in it's stack.
 
 ### Awesome Use Cases
 List of projects using Minio server to store their data.
-* [www.houbank.com](https://www.houbank.com) - www.houbank.com uses Minio as a simple , reliable and compatible self-host AWS S3 substitution. The organization uses Minio for user file uploading and documents exchange among several inner applications/jobs.
+* [www.houbank.com](https://www.houbank.com) - www.houbank.com uses Minio as a simple, reliable and compatible self-host AWS S3 alternative. Houbank uses Minio to upload user files and exchange documents in internal applications/jobs.
 * [s3-resource-simple](https://github.com/making/s3-resource-simple) - s3-resource-simple is [Concourse CI's](https://concourse.ci/) resource for uploading files to S3. It supports Minio as an object storage backend. 
 * [Simple Simple Ads](https://simplesimple.ca) - uses Minio as a compatible object storage server replacement in our development environment. Multiple developers share a local repository of files transparently without having to change any site configuration. This makes developing with [Drupal](https://www.drupal.org/) and the [s3fs](https://www.drupal.org/project/s3fs) modules very easy. File changes are staged locally and then migrated to Amazon S3 after approval using the mc client library.
 * [Crisp](https://crisp.im/) - Crisp is a Customer Intelligence Platform. It helps teams know, understand and communicate with their customers, from multiple channels (chat, email). Minio is used to securely store user file uploads. Files are uploaded from the chatbox, operator dashboard and email attachments. Minio completely replaces S3 and brings more control to user data safety.
