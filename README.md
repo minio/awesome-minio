@@ -70,6 +70,9 @@ A curated list of Minio community projects inspired by [awesome-go](https://gith
 ### Web Application Framework
 * [Django-Minio](https://github.com/maddevsio/django_minio) - Django is a popular Python web framework. Django-Minio plugin enables use of Minio as an AWS S3 replacement.
 
+### Minio as Managed Service
+* [Apcera](https://docs.apcera.com/services/types/service-minio/) - Apcera offers a Minio service gateway to their users. Minio enables Apcera users to spin up persistent, S3 compatible datastore on any infrastructure with just a single command. Minio provides an open source  AWS S3 alternative for Apcera users.
+
 ### Compatible Hardware
 * [SMC 5018A-AR12L (Intel Atom)](http://www.supermicro.com/products/system/1U/5018/SSG-5018A-AR12L.cfm?parts=SHOW) - SMC 1U SoC Atom C2750 platform with 12x 3.5” drive bays
 * [Quanta Grid D51B-2U (OCP Compliant) ](http://www.qct.io/Product/Servers/Rackmount-Servers/2U/QuantaGrid-D51B-2U-p256c77c70c83c118)- Quanta 2U DP E5-2600v3 platform with 12x 3.5” drive bays
