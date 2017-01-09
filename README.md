@@ -5,17 +5,17 @@ A curated list of Minio community projects inspired by [awesome-go](https://gith
 ## Contribution Guidelines
 * Add entries alphabetically, under the appropriate category.
 * To add, remove, or change things on the list: Submit a pull request.
-* Description should contain a link with the name of the package/project/website. 
+* Description should contain a link with the name of the package/project/website.
 * Do not exceed more than a paragraph.
 
 ### Cloud - PaaS
 * [minio-dokku](https://github.com/slypix/minio-dokku) - Dockerfile to run Minio on [Dokku](http://dokku.viewdocs.io/dokku/) PaaS.
-* [minio-dist-boshrelease](https://github.com/shinji62/minio-dist-boshrelease) - Cloud Foundry [BOSH](https://bosh.io) is an open source tool chain for release engineering, deployment and lifecycle management of large scale distributed services. minio-dist-boshrelease will help easily install the [distributed version of Minio](https://docs.minio.io/docs/distributed-minio-quickstart-guide). 
+* [minio-dist-boshrelease](https://github.com/shinji62/minio-dist-boshrelease) - Cloud Foundry [BOSH](https://bosh.io) is an open source tool chain for release engineering, deployment and lifecycle management of large scale distributed services. minio-dist-boshrelease will help easily install the [distributed version of Minio](https://docs.minio.io/docs/distributed-minio-quickstart-guide).
 * [Jelastic](https://jelastic.com/) - Jelastic is a multi-cloud PaaS and CaaS for business. It uses Minio as an S3 compatible object storage server in Docker containers.
 
 ### Cloud - IaaS
 * [Digital Ocean](https://www.digitalocean.com) - Deploy an SSD cloud server in 55 seconds.
-* [Deis](https://deis.com) - Deis is an open source Platform As A Service for use with [Kubernetes](http://kubernetes.io/). Deis uses Minio by default to store all internal application metadata storage. It also uses Minio to store database backups.
+* [Deis Workflow](https://deis.com/workflow/) - an open source Platform-as-a-Service for [Kubernetes](http://kubernetes.io/). Workflow uses Minio by default to store all internal application metadata and database backups.
 * [Eucalyptus](http://www.eucalyptus.com) - Eucalyptus is an open solution to build private and hybrid clouds that are compatible with Amazon Web Services. Minio can be used as an object storage backend for Eucalyptus.
 * [Ha-Minio](https://github.com/bryanl/ha-minio) - Configures Minio, as a S3 compatible cloud storage server for DigitalOcean in a highly available fashion.
 * [Packet](https://www.packet.net) - Packet is a baremetal cloud provider.
@@ -26,12 +26,12 @@ A curated list of Minio community projects inspired by [awesome-go](https://gith
 * [ScaleWay](https://www.scaleway.com) - Scalable and affordable cloud and bare-metal servers (European DC).
 * [OVH](https://www.ovh.com/us) - Build your own infrastructure with OVH public cloud..
 * [Onlinetech](http://www.onlinetech.com) - Secure, compliant enterprise cloud.
- 
+
 ### DevOps - CI/CD
 * [drone.io](https://drone.io/) - drone.io is continuous integration for Github and Bitbucket, that monitors your code for bugs. It uses Minio as an AWS S3 cloud storage alternative.
 * [Gorbachev IO](https://dragonfly.co.nz) - Gorbachev is a continuous integration platform, used to manage reproducible research at Dragonfly Data Science. Minio tools are awesome, and the community is supportive and responsive.
 * [mkrepo](https://github.com/tarantool/mkrepo) - maintains an RPM or DEB repository in S3, and periodically regenerates metadata. You can use Minio as a convenient and inexpensive storage for your CI.
-* [s3-resource-simple](https://github.com/making/s3-resource-simple) - s3-resource-simple is [Concourse CI's](https://concourse.ci/) resource for uploading files to S3. It supports Minio as an object storage backend. 
+* [s3-resource-simple](https://github.com/making/s3-resource-simple) - s3-resource-simple is [Concourse CI's](https://concourse.ci/) resource for uploading files to S3. It supports Minio as an object storage backend.
 
 ### Cloud/SaaS Applications
 * [Appknox](https://www.appknox.com/) - Appknox detects & addresses vulnerabilities in mobile apps within minutes. Managing storage was a nightmare for us before Minio came along. We use Minio to store all our ipa/apk files and pdf reports that gets auto-nenerated. We are an enterprise startup and we offer on-premise and private-cloud installations of our cloud-based scanner. We have deployed our code base on AWS, Google, Azure, multiple on-premise installations and private cloud. Before Mino came along - we had to write and maintain Python libraries for each platform and maintain them. Some of the changes that we make cannot be even tested - because it is deployed on-premise which we dont have access to. Thankfully, we came across Minio. Now we just install minio everywhere and forget about storage. Minio Rocks!
