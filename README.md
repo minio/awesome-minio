@@ -56,6 +56,7 @@ A curated list of Minio community projects inspired by [awesome-go](https://gith
 * [C0D1UM] (http://www.codium.co) - C0D1UM is a software development firm doing projects on demand and offering operating system infrastructure support. We use `minio` to secure all confidential data in private network. It was a first choice because major functions are compatible with AWS S3 standard functions.
 * [Collaborne](https://github.com/Collaborne) - Collaborne uses Minio docker containers in development environments to simulate a full AWS S3 environment.
 * [nxsol](http://nxsol.com/index.html) - nxsol specializes in the development of desktop and web-based businesses and personal applications. It uses minio-java client library for Amazon S3 related applications.
+* [ToolsLib](https://toolslib.net) - ToolsLib provides project management services including software hosting for millions of users. Minio fits perfectly in the current infrastructure: its ability to easily scale is a crucial point for ToolsLib services.
 
 ### Cloud Backup / Versioning
 * [BackupHive](https://www.backuphive.nl) - Providing online backup services from The Netherlands with Minio as an S3 compatible back-end server to store and retrieve files. Minio is very scalable, uses almost no resources itself and is easy to maintain. The awesome team has a strong combined knowledge of use-cases, ranging from the smallest personal project to large scale cross-datacenter setups, all available within a comfortable community.
