@@ -66,7 +66,7 @@ A curated list of Minio community projects inspired by [awesome-go](https://gith
 * [s3git](https://github.com/s3git/s3git) - git for cloud storage. s3git provides distributed version control for data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local SSD to make changes, commit and push back. Check out [s3 docs](http://rclone.org/s3/) for more information.
 
 ### Cloud Storage Clients
-* [Cloud Explorer] (https://github.com/rusher81572/cloudExplorer) - Cloud Explorer is an open source client written in Java and runs on any OS. It has many unique features such as a a text editor, performance testor, image viewer, search, bucket migrations, music player, IRC client, and much more.
+* [Cloud Explorer](https://github.com/rusher81572/cloudExplorer) - Cloud Explorer is an open source client written in Java and runs on any OS. It has many unique features such as a a text editor, performance testor, image viewer, search, bucket migrations, music player, IRC client, and much more.
 * [Cyberduck](https://cyberduck.io/) - Cyberduck is an open source client for FTP and SFTP, WebDAV, OpenStack Swift, and Amazon S3, available on Mac OS X and Windows. It supports Minio as an AWS S3 compatible storage.
 * [Mountain Duck](https://mountainduck.io/) - Mountain Duck lets you mount a server and cloud storage as a local disk within the Finder app on Mac and the File Explorer app on Windows. It supports Minio as an AWS S3 compatible storage.
 
