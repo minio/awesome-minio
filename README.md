@@ -23,7 +23,6 @@ A curated list of Minio community projects inspired by [awesome-go](https://gith
 * [OVH](https://www.ovh.com/us/) - Build your own infrastructure with OVH public cloud..
 * [Packet](https://www.packet.net) - Packet is a baremetal cloud provider.
 * [Plumbery](http://plumbery.readthedocs.io/en/latest/tutorial.minio.html) -  Plumbery is an open source project that was initiated by Dimension Data to accelerate digital transformation. It recommends using Minio as a standalone object storage.
-* [Ramcloud](https://ramcloud.io) - Ramcloud is a hosting service provider. It uses Minio with a CDN to host backups, machine images, etc.
 * [s3-tus-store](https://github.com/blockai/s3-tus-store) - Minio is the supported storage backend for [https://tus.io/](https://tus.io/). Tus is an open protocol for resumable file uploads.
 * [ScaleWay](https://www.scaleway.com) - Scalable and affordable cloud and bare-metal servers (European DC).
 * [SSD Nodes](https://www.ssdnodes.com/) - Simple, high performance cloud provider with truly personalized support.
