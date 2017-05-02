@@ -13,6 +13,8 @@ A curated list of Minio community projects inspired by [awesome-go](https://gith
 * [Jelastic](https://jelastic.com/) - Jelastic is a multi-cloud PaaS and CaaS for business. It uses Minio as an S3 compatible object storage server in Docker containers.
 * [minio-dist-boshrelease](https://github.com/shinji62/minio-dist-boshrelease) - Cloud Foundry [BOSH](https://bosh.io) is an open source tool chain for release engineering, deployment and lifecycle management of large scale distributed services. minio-dist-boshrelease will help easily install the [distributed version of Minio](https://docs.minio.io/docs/distributed-minio-quickstart-guide).
 * [minio-dokku](https://github.com/slypix/minio-dokku) - Dockerfile to run Minio on [Dokku](http://dokku.viewdocs.io/dokku/) PaaS.
+* [sloppy.io](https://sloppy.io/) - sloppy.io is the fastest way to deploy your docker container online. We provide the infrastructure and workflow to run container applications and micro services. Access our platform over the web, via CLI or our own API. Check out [Deploying Minio to sloppy.io](https://sloppy.io/deploying-minio-to-sloppy-io/) for further info! 
+
 
 ### Cloud - IaaS
 * [Deis Workflow](https://deis.com/workflow/) - an open source Platform-as-a-Service for [Kubernetes](https://kubernetes.io/). Workflow uses Minio by default to store all internal application metadata and database backups.
