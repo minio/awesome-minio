@@ -17,7 +17,7 @@ A curated list of Minio community projects inspired by [awesome-go](https://gith
 ### Cloud - IaaS
 * [Deis Workflow](https://deis.com/workflow/) - an open source Platform-as-a-Service for [Kubernetes](https://kubernetes.io/). Workflow uses Minio by default to store all internal application metadata and database backups.
 * [Digital Ocean](https://www.digitalocean.com) - Deploy an SSD cloud server in 55 seconds.
-* [Eucalyptus](http://www8.hp.com/us/en/cloud/helion-eucalyptus.html) - Eucalyptus is an open solution to build private and hybrid clouds that are compatible with Amazon Web Services. Minio can be used as an object storage backend for Eucalyptus.
+* [Eucalyptus](http://www.dxc.technology/cloud/offerings/140041/140149-eucalyptus_software_support_services) - Eucalyptus is an open solution to build private and hybrid clouds that are compatible with Amazon Web Services. Minio can be [used](https://mdshaonimran.wordpress.com/category/cloud-computing/eucalyptus/) as an object storage backend for Eucalyptus.
 * [Ha-Minio](https://github.com/bryanl/ha-minio) - Configures Minio, as a S3 compatible cloud storage server for DigitalOcean in a highly available fashion.
 * [Onlinetech](http://www.onlinetech.com) - Secure, compliant enterprise cloud.
 * [OVH](https://www.ovh.com/us/) - Build your own infrastructure with OVH public cloud..
@@ -54,15 +54,15 @@ A curated list of Minio community projects inspired by [awesome-go](https://gith
 ### Application Development Services
 * [C0D1UM](http://www.codium.co) - C0D1UM is a software development firm doing projects on demand and offering operating system infrastructure support. We use `minio` to secure all confidential data in private network. It was a first choice because major functions are compatible with AWS S3 standard functions.
 * [Collaborne](https://github.com/Collaborne) - Collaborne uses Minio docker containers in development environments to simulate a full AWS S3 environment.
-* [nxsol](http://nxsol.com/index.html) - nxsol specializes in the development of desktop and web-based businesses and personal applications. It uses minio-java client library for Amazon S3 related applications.
+* [nxsol](http://nxsol.com/) - nxsol specializes in the development of desktop and web-based businesses and personal applications. It uses minio-java client library for Amazon S3 related applications.
 * [ToolsLib](https://toolslib.net) - ToolsLib provides project management services including software hosting for millions of users. Minio fits perfectly in the current infrastructure: its ability to easily scale is a crucial point for ToolsLib services.
 
 ### Cloud Backup / Versioning
 * [BackupHive](https://www.backuphive.nl) - Providing online backup services from The Netherlands with Minio as an S3 compatible back-end server to store and retrieve files. Minio is very scalable, uses almost no resources itself and is easy to maintain. The awesome team has a strong combined knowledge of use-cases, ranging from the smallest personal project to large scale cross-datacenter setups, all available within a comfortable community.
 * [CloudBerry Backup](https://www.cloudberrylab.com/backup/windows-server.aspx) - CloudBerry Backup is used to store files, folders and system images to cloud storage providers. CloudBerry uses Minio for standalone, online and managed backup service.
-* [rclone](http://rclone.org) - "rsync for cloud storage".  Rclone is a command line application to sync files to and from cloud storage systems and it works well with Minio. Check out [rclone's s3 docs](http://rclone.org/s3/) for more information.
-* [restic](https://restic.github.io) - restic is a backup program that is fast, efficient and secure. Check [the documentation](http://restic.readthedocs.io/en/latest/Manual/#create-a-minio-server-repository) for instructions on how to backup to a Minio server using restic.
-* [s3git](https://github.com/s3git/s3git) - git for cloud storage. s3git provides distributed version control for data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local SSD to make changes, commit and push back. Check out [s3 docs](http://rclone.org/s3/) for more information.
+* [rclone](https://rclone.org/) - "rsync for cloud storage".  Rclone is a command line application to sync files to and from cloud storage systems and it works well with Minio. Check out [rclone's s3 docs](https://rclone.org/s3/) for more information.
+* [restic](https://restic.github.io) - restic is a backup program that is fast, efficient and secure. Check [the documentation](http://restic.readthedocs.io/en/latest/manual.html#minio-server) for instructions on how to backup to a Minio server using restic.
+* [s3git](https://github.com/s3git/s3git) - git for cloud storage. s3git provides distributed version control for data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local SSD to make changes, commit and push back. Check out [s3git docs](https://github.com/s3git/s3git/blob/master/README.md#integration-with-minio) for more information.
 
 ### Cloud Storage Clients
 * [Cloud Explorer](https://github.com/rusher81572/cloudExplorer) - Cloud Explorer is an open source client written in Java and runs on any OS. It has many unique features such as a a text editor, performance testor, image viewer, search, bucket migrations, music player, IRC client, and much more.
