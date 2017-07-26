@@ -73,6 +73,7 @@ A curated list of Minio community projects inspired by [awesome-go](https://gith
 
 ### Web Application Framework
 * [Django-Minio](https://github.com/maddevsio/django_minio) - Django is a popular Python web framework. Django-Minio plugin enables use of Minio as an AWS S3 replacement.
+* [Minio-Play-Rest-API](https://github.com/s4kibs4mi/minio-play-rest-api) - Rest API for Minio ( AWS S3 compatible object storage server ) based on Java Play Framework 2.
 
 ### Minio as Managed Service
 * [Apcera](https://docs.apcera.com/services/types/service-minio/) - Apcera offers a Minio service gateway to their users. Minio enables Apcera users to spin up a persistent, S3 compatible datastore on any infrastructure with just a single command. Minio provides an open source  AWS S3 alternative for Apcera users.
