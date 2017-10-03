@@ -14,10 +14,9 @@ A curated list of Minio community projects inspired by [awesome-go](https://gith
 * [minio-dist-boshrelease](https://github.com/shinji62/minio-dist-boshrelease) - Cloud Foundry [BOSH](https://bosh.io) is an open source tool chain for release engineering, deployment and lifecycle management of large scale distributed services. minio-dist-boshrelease will help easily install the [distributed version of Minio](https://docs.minio.io/docs/distributed-minio-quickstart-guide).
 * [minio-dokku](https://github.com/slypix/minio-dokku) - Dockerfile to run Minio on [Dokku](http://dokku.viewdocs.io/dokku/) PaaS.
 * [sloppy.io](https://sloppy.io/) - sloppy.io is the fastest way to deploy your docker container online. We provide the infrastructure and workflow to run container applications and micro services. Access our platform over the web, via CLI or our own API. Check out [Deploying Minio to sloppy.io](https://sloppy.io/deploying-minio-to-sloppy-io/) for further info! 
-
+* [Deis Workflow](https://deis.com/workflow/) - an open source Platform-as-a-Service for [Kubernetes](https://kubernetes.io/). Workflow uses Minio by default to store all internal application metadata and database backups.
 
 ### Cloud - IaaS
-* [Deis Workflow](https://deis.com/workflow/) - an open source Platform-as-a-Service for [Kubernetes](https://kubernetes.io/). Workflow uses Minio by default to store all internal application metadata and database backups.
 * [Digital Ocean](https://www.digitalocean.com) - Deploy an SSD cloud server in 55 seconds.
 * [Eucalyptus](http://www.dxc.technology/cloud/offerings/140041/140149-eucalyptus_software_support_services) - Eucalyptus is an open solution to build private and hybrid clouds that are compatible with Amazon Web Services. Minio can be [used](https://mdshaonimran.wordpress.com/category/cloud-computing/eucalyptus/) as an object storage backend for Eucalyptus.
 * [Ha-Minio](https://github.com/bryanl/ha-minio) - Configures Minio, as a S3 compatible cloud storage server for DigitalOcean in a highly available fashion.
