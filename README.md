@@ -76,6 +76,7 @@ A curated list of Minio community projects inspired by [awesome-go](https://gith
 * [Cloud Explorer](https://github.com/rusher81572/cloudExplorer) - Cloud Explorer is an open source client written in Java and runs on any OS. It has many unique features such as a a text editor, performance testor, image viewer, search, bucket migrations, music player, IRC client, and much more.
 * [Cyberduck](https://cyberduck.io/) - Cyberduck is an open source client for FTP and SFTP, WebDAV, OpenStack Swift, and Amazon S3, available on Mac OS X and Windows. It supports Minio as an AWS S3 compatible storage.
 * [Mountain Duck](https://mountainduck.io/) - Mountain Duck lets you mount a server and cloud storage as a local disk within the Finder app on Mac and the File Explorer app on Windows. It supports Minio as an AWS S3 compatible storage.
+* [Nuage](https://github.com/mickael-kerjean/nuage) ([demo](https://nuage.kerjean.me/)) - A Dropbox-like interface for your existing data that support many backends among which Minio
 
 ### Web Application Framework
 * [Django-Minio](https://github.com/maddevsio/django_minio) - Django is a popular Python web framework. Django-Minio plugin enables use of Minio as an AWS S3 replacement.
