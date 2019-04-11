@@ -10,7 +10,7 @@ A curated list of Minio community projects inspired by [awesome-go](https://gith
 
 ### Cloud - PaaS
 * [Cloudron](https://cloudron.io) - Cloudron is an open source platform that makes it easy to run web apps on your server and keep them up-to-date. The Cloudron also supports storing it's backups on Minio, you can read more [here](https://cloudron.io/blog/2016-12-13-minio-support.html). Minio itself has been packaged as a Cloudron App - you can try it from the [Cloudron App Store](https://cloudron.io/store/io.minio.cloudronapp.html) - [Source](https://git.cloudron.io/dswd/minio-app).
-* [Deis Workflow](https://deis.com/workflow/) *DEPRECATED*  - an open source Platform-as-a-Service for [Kubernetes](https://kubernetes.io/). Workflow uses Minio by default to store all internal application metadata and database backups.
+* [Hephy Workflow](https://web.teamhephy.com/) (formerly known as Deis Workflow) - an open source Platform-as-a-Service for [Kubernetes](https://kubernetes.io/). Workflow uses Minio by default to store all internal application metadata and database backups.
 * [Jelastic](https://jelastic.com/) - Jelastic is a multi-cloud PaaS and CaaS for business. It uses Minio as an S3 compatible object storage server in Docker containers.
 * [minio-dist-boshrelease](https://github.com/shinji62/minio-dist-boshrelease) - Cloud Foundry [BOSH](https://bosh.io) is an open source tool chain for release engineering, deployment and lifecycle management of large scale distributed services. minio-dist-boshrelease will help easily install the [distributed version of Minio](https://docs.minio.io/docs/distributed-minio-quickstart-guide).
 * [minio-dokku](https://github.com/slypix/minio-dokku) - Dockerfile to run Minio on [Dokku](http://dokku.viewdocs.io/dokku/) PaaS.
@@ -33,7 +33,7 @@ A curated list of Minio community projects inspired by [awesome-go](https://gith
 * [drone.io](https://github.com/drone/drone) - drone.io is continuous integration for Github and Bitbucket, that monitors your code for bugs. It uses Minio as an AWS S3 cloud storage alternative.
 * [Gorbachev IO](https://www.dragonfly.co.nz/) - Gorbachev is a continuous integration platform, used to manage reproducible research at Dragonfly Data Science. Minio tools are awesome, and the community is supportive and responsive.
 * [mkrepo](https://github.com/tarantool/mkrepo) - maintains an RPM or DEB repository in S3, and periodically regenerates metadata. You can use Minio as a convenient and inexpensive storage for your CI.
-* [s3-resource-simple](https://github.com/making/s3-resource-simple) - s3-resource-simple is [Concourse CI's](https://concourse.ci/) resource for uploading files to S3. It supports Minio as an object storage backend.
+* [s3-resource-simple](https://github.com/18F/s3-resource-simple) - s3-resource-simple is [Concourse CI's](https://concourse-ci.org/) resource for uploading files to S3. It supports Minio as an object storage backend.
 * [puppet-minio](https://github.com/kogitoapp/puppet-minio) - Puppet module to manage Minio installations. Uses the binary, does not (yet) support Docker based installation. (Requires Puppet version 4+)
 
 ### Cloud/SaaS Applications
