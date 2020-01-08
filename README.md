@@ -88,3 +88,6 @@ A curated list of Minio community projects inspired by [awesome-go](https://gith
 * [Intel® Server System R2312WTTYSR](http://ark.intel.com/products/88286) - Intel 2U DP E5-2600v3 platform with 12x 3.5” drive bays
 * [Quanta Grid D51B-2U (OCP Compliant) ](http://www.hyperscalers.com.au/quanta-qct-server-1u-quantagrid-d51b-2u-buy-quantagridd51b2u-distribution-buy-usa-aus) - Quanta 2U DP E5-2600v3 platform with 12x 3.5” drive bays
 * [SMC 5018A-AR12L (Intel Atom)](http://www.supermicro.com/products/system/1U/5018/SSG-5018A-AR12L.cfm?parts=SHOW) - SMC 1U SoC Atom C2750 platform with 12x 3.5” drive bays
+
+### File Sharing
+* [Pydio Cells](https://pydio.com/) - Pydio Cells is an open source sync & share platform written in Go. Cells is using Minio as an object storage backend for serving files. It is also compatible with Amazon S3, Azure and other S3 storage providers. Check out [Pydio Cells repository](https://github.com/pydio/cells) for more information and/or to contribute.
