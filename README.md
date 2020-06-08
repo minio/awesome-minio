@@ -92,3 +92,6 @@ A curated list of Minio community projects inspired by [awesome-go](https://gith
 
 ### File Sharing
 * [Pydio Cells](https://pydio.com/) - Pydio Cells is an open source sync & share platform written in Go. Cells is using Minio as an object storage backend for serving files. It is also compatible with Amazon S3, Azure and other S3 storage providers. Check out [Pydio Cells repository](https://github.com/pydio/cells) for more information and/or to contribute.
+
+### Admin Web UI
+* [Adminio-ui](https://github.com/rzrbld/adminio-ui) - This is a Web UI for minio s3 server. Web UI works on top of REST API - adminio-API Build with Angular and mdbootstrap.
